@@ -1,0 +1,68 @@
+body {
+    background-color: aliceblue;
+
+}
+#div_uno {
+    background-color: rgba(27, 51, 93);
+    width: 970px;
+    height: 600px;
+    padding-top: 1px;
+}
+.header {
+    background-color: rgb(207, 48, 54);
+    width: 945px;
+    height: 65px;
+    border-radius: 10px 10px;
+    color: rgb(194, 214, 235);
+    margin: 11px;
+    line-height:60px;
+    text-indent: 16px;
+}
+.altura_line {
+    line-height:15px;
+    text-indent: 16px;
+    text-align: justify;
+    margin: 4px;
+    padding-top: 1px;
+    
+}
+.menu {
+    background-color: rgb(41 125 140);
+    color: aqua;
+    font-size: small;
+    width: 199px;
+    height: 190px;
+    border-radius: 15px 15px;
+    margin: 13px;
+    text-align: justify;
+}
+.parrafos {
+    background-color: rgb(14, 24, 34);
+    color: rgb(194, 214, 235);
+    font-size: small;
+    margin-left: 230px;
+    margin-top: -203px;
+    border-radius: 15px 15px;
+    width: 714px;
+    height: 410px;
+    text-align: justify;
+    padding-top: 12px;
+    padding-left: 1px;
+    padding-right: 11px;
+}
+.footer {
+    background-color: rgb(93, 102, 115);
+    color: rgb(174, 208, 230);
+    height: 40px;
+    margin: 1px;
+    margin: 11px;
+    border-radius: 15px 15px;
+    line-height:35px;
+    text-indent: 18px;
+}
+.url_js {
+    color: rgb(109, 230, 240);
+}
+.texto_morado {
+    color: rgb(128, 141, 252);
+}
